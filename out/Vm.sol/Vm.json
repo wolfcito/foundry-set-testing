@@ -7257,6 +7257,9 @@
                       "pathNode": {
                         "id": 5268,
                         "name": "Log",
+                        "nameLocations": [
+                          "8515:3:3"
+                        ],
                         "nodeType": "IdentifierPath",
                         "referencedDeclaration": 4803,
                         "src": "8515:3:3"
