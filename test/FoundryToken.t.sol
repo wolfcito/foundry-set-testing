@@ -33,11 +33,11 @@ contract FoundryTokenTest is Test {
     }
 
     function testName() public {
-        assertEq(token.name(), "FoundryToken");
+        assertEq(token.name(), "VirtualitoToken");
     }
 
     function testSymbol() public {
-        assertEq(token.symbol(), "FTK");
+        assertEq(token.symbol(), "VTLT");
     }
 
     function testSupply() public {

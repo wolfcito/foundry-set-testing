@@ -5,7 +5,7 @@ import "node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "node_modules/@openzeppelin/contracts/access/Ownable.sol";
 
 contract FoundryToken is ERC20, Ownable {
-    constructor(uint256 initialSupply) ERC20("FoundryToken", "FTK") {
+    constructor(uint256 initialSupply) ERC20("VirtualitoToken", "VTLT") {
         _mint(msg.sender, initialSupply);
     }
 
