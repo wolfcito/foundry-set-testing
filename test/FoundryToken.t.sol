@@ -28,6 +28,10 @@ contract FoundryTokenTest is Test {
         assertEq(token.name(), "FoundryToken");
     }
 
+    function testSymbol() public {
+        assertEq(token.symbol(), "FTK");
+    }
+
     function testSupply() public {
         assertEq(token.totalSupply(), 1000);
     }
