@@ -500,8 +500,8 @@
       }
     },
     "src/FoundryToken.sol": {
-      "lastModificationDate": 1660579565078,
-      "contentHash": "b7568ecedb25c8d0cf6eedfc6115bf71",
+      "lastModificationDate": 1660627576568,
+      "contentHash": "4364c95c8fc48c92d746ea0a00a39150",
       "sourceName": "src/FoundryToken.sol",
       "solcConfig": {
         "settings": {
@@ -544,8 +544,8 @@
       }
     },
     "test/FoundryToken.t.sol": {
-      "lastModificationDate": 1660626206218,
-      "contentHash": "47b0c62633320dab71d849b3661a1f69",
+      "lastModificationDate": 1660627627188,
+      "contentHash": "b9c6d13e5ccdc5d22ffa65915f2cb09a",
       "sourceName": "test/FoundryToken.t.sol",
       "solcConfig": {
         "settings": {
