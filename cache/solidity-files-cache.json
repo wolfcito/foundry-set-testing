@@ -544,8 +544,8 @@
       }
     },
     "test/FoundryToken.t.sol": {
-      "lastModificationDate": 1660592572168,
-      "contentHash": "3e5a68de5ae12cbf1eae2f854779c934",
+      "lastModificationDate": 1660626206218,
+      "contentHash": "47b0c62633320dab71d849b3661a1f69",
       "sourceName": "test/FoundryToken.t.sol",
       "solcConfig": {
         "settings": {
